@@ -20,7 +20,7 @@ return {
                 'javascript',
                 'json',
                 'lua',
-                'markdown_inline (needed for full highlighting)',
+                'markdown_inline',
                 'python',
                 'regex',
                 'rust',
