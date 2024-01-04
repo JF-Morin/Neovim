@@ -26,6 +26,6 @@ return {
                 'hydra_lsp',
                 'zls'
             }
-        }) 
+        })
     end
 }
